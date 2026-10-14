@@ -26,8 +26,6 @@ The platform combines a React frontend with a FastAPI backend and AI-assisted se
 
 ### Security
 ![Security](claimora-frontend/public/images/security.png)
-### Security
-claimora-frontend/public/images/security.png
 ## ✨ Key Features
 
 - **Claim Assistance:** Guides users through the health insurance claim workflow.
