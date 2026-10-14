@@ -9,9 +9,6 @@ Health insurance claim processing can involve multiple steps, including policy e
 The platform combines a React frontend with a FastAPI backend and AI-assisted services to support claim-related guidance and workflows.
 
 ## Application Screenshots
-
-## Application Screenshots
-
 ### Home Page
 ![Claimora Home Page](claimora-frontend/public/images/home%20page.png)
 
@@ -26,6 +23,7 @@ The platform combines a React frontend with a FastAPI backend and AI-assisted se
 
 ### Security
 ![Security](claimora-frontend/public/images/security.png)
+
 ## ✨ Key Features
 
 - **Claim Assistance:** Guides users through the health insurance claim workflow.
