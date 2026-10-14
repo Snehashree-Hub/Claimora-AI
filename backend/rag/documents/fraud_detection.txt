@@ -1,0 +1,28 @@
+# ClaimCare - Fraud Risk Screening
+
+Fraud-risk screening is an additional review mechanism in the ClaimCare claim workflow.
+
+The purpose of fraud-risk screening is to identify claim records that may contain patterns or information that require additional examination.
+
+The screening system may consider characteristics such as:
+
+- Unusual claim patterns
+- Inconsistent claim information
+- Data characteristics identified by the fraud-risk model
+- Other risk indicators available to the application
+
+Important:
+
+A high-risk result does not prove that fraud has occurred.
+
+A fraud-risk flag does not automatically mean that:
+
+- The patient committed fraud
+- The claim will be rejected
+- The patient will be denied coverage
+
+A fraud-risk result should be treated as an indicator for additional review.
+
+The final claim decision belongs to the applicable insurer or authorized reviewer.
+
+The AI assistant should explain fraud-risk screening carefully and must not accuse a patient of fraud based only on an automated risk result.

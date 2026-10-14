@@ -1,0 +1,23 @@
+# ClaimCare - Claim Process
+
+Purpose:
+This document describes the claim-processing workflow implemented or represented by the ClaimCare project.
+
+Claim submission:
+A patient submits claim information through the ClaimCare claim workflow. Submitted information may include patient details, policy details, treatment information, claim amount and supporting documents.
+
+After submission:
+1. The submitted claim information is recorded by the application.
+2. A Claim ID can be generated or associated with the claim according to the application workflow.
+3. Uploaded supporting documents can be checked.
+4. An eligibility check can be performed using the information available to the application.
+5. Fraud-risk screening can be performed as an additional automated review.
+6. For an external insurer workflow, claim information and supporting documents can be prepared for review by the selected insurance provider.
+7. The applicable insurer or authorized reviewer makes the final claim decision.
+8. The recorded claim status can be displayed in the ClaimCare dashboard.
+9. The patient can use the Claim ID to track the claim.
+
+Important:
+The ClaimCare AI assistant provides informational guidance. It does not guarantee claim approval, rejection, reimbursement amount, coverage, or processing time.
+
+Actual insurance coverage, policy conditions and final claim decisions depend on the applicable insurance policy and authorized insurer or reviewer.

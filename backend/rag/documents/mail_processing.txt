@@ -1,0 +1,27 @@
+# ClaimCare - Mail Processing
+
+Mail processing is a workflow component for handling claim-related communication with an external insurance provider.
+
+General workflow:
+
+1. External patient or user submits claim information.
+2. ClaimCare records the claim information.
+3. The application prepares relevant claim information and supporting documents.
+4. The selected insurance provider can review the prepared claim information through the configured communication workflow.
+5. The insurer or authorized reviewer evaluates the claim.
+6. A claim status or decision may be recorded in the ClaimCare application.
+
+Possible recorded outcomes include:
+
+- Approved
+- Rejected
+- Under Review
+
+Important:
+The application should not claim that an external email was successfully delivered unless a valid email service or SMTP/API integration confirms delivery.
+
+Actual external email delivery depends on the configured email service.
+
+The AI assistant must not invent email addresses, delivery confirmations, insurer responses or claim decisions.
+
+Final insurance decisions are made by the applicable insurer or authorized reviewer.

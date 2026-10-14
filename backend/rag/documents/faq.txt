@@ -1,0 +1,67 @@
+ClaimCare - Frequently Asked Questions
+
+1. What is a health insurance claim?
+A health insurance claim is a formal request submitted to an insurer to cover eligible medical expenses according to the applicable health insurance policy. The claim is reviewed using the policy terms, submitted documents, treatment details, eligibility conditions and other applicable checks.
+
+2. What is a cashless claim?
+A cashless claim is a health insurance claim in which the insured person may receive treatment at an eligible network hospital without paying the full admissible hospital bill upfront. The hospital or its insurance/TPA desk coordinates with the insurer or authorized claims administrator for pre-authorization and claim processing.
+
+Cashless treatment does not mean that every hospital expense is automatically paid by the insurer. Coverage depends on the policy terms, network-hospital eligibility, pre-authorization, medical necessity, exclusions, deductibles, co-payment, sub-limits, waiting periods and other applicable conditions.
+
+The insured person may still need to pay expenses that are not covered under the policy, such as non-payable items, applicable co-payment, deductible amounts, expenses above policy limits or other excluded charges.
+
+3. What is reimbursement claim?
+In a reimbursement claim, the insured person generally pays the eligible medical expenses first and then submits the required documents to the insurer for assessment and reimbursement according to the policy terms.
+
+4. What is pre-authorization?
+Pre-authorization is the process through which the insurer or authorized claims administrator reviews a proposed cashless treatment request before or during hospitalization. The hospital usually submits the required medical and treatment information for assessment.
+
+Pre-authorization is not the same as final claim approval. The final payable amount is determined after reviewing the applicable policy terms, medical records, bills and other required information.
+
+5. What is a network hospital?
+A network hospital is a hospital that has an applicable cashless arrangement with the insurer or authorized claims network. Cashless availability depends on the relevant insurer, policy and treatment conditions.
+
+6. Are all expenses covered in a cashless claim?
+No. Only eligible expenses covered under the applicable policy may be payable. Depending on the policy, the insured person may have to pay deductibles, co-payments, non-payable items, excluded expenses, expenses exceeding limits or other amounts not admissible under the policy.
+
+7. Can I get a cashless claim at any hospital?
+Cashless treatment is generally available only at eligible network hospitals or hospitals where the insurer has an applicable cashless arrangement. The insured person should verify the current network status and cashless availability before treatment whenever possible.
+
+8. What documents are commonly required for a health insurance claim?
+Depending on the claim type, commonly required documents may include the claim form, policy details, identity proof, hospital admission and discharge records, medical reports, prescriptions, investigation reports, itemized bills, payment receipts and other documents requested by the insurer or claims administrator.
+
+9. What happens after I submit a claim?
+The claim may go through document verification, eligibility assessment, policy and coverage checks, medical or treatment review, fraud-risk screening where applicable, claim assessment and final decision by the insurer or authorized reviewer.
+
+10. Does ClaimCare AI Assistant approve claims?
+No. The AI Assistant provides informational guidance based on the available ClaimCare knowledge base. It does not make final insurance approval or rejection decisions. Final decisions are made by the applicable insurer or authorized reviewer.
+
+11. What is claim tracking?
+Claim tracking allows an insured person to check the current processing status of a submitted claim using the available claim-tracking facility.
+
+12. What should I do if my claim requires additional documents?
+If additional documents are requested, submit the required documents through the applicable claim submission or document-verification process. The claim can continue to be assessed after the requested information is received and reviewed.
+
+13. What is claim eligibility?
+Claim eligibility refers to whether a claim satisfies the applicable policy conditions and requirements for consideration. Eligibility may depend on policy status, coverage, treatment, waiting periods, exclusions, limits and other policy conditions.
+
+14. Can the AI Assistant explain my insurance claim?
+Yes. The AI Assistant can explain common insurance concepts, claim stages, document requirements, eligibility concepts, claim tracking and other information available in the ClaimCare knowledge base. It should not be treated as a substitute for the insurer's official policy decision.
+
+15. Does cashless mean zero payment by the patient?
+No. Cashless does not necessarily mean zero out-of-pocket expense. The patient may still need to pay amounts that are not admissible under the policy, including applicable deductibles, co-payments, non-payable items, exclusions, sub-limits or expenses above applicable coverage limits.
+
+16. What is the difference between cashless and reimbursement?
+Cashless treatment generally involves coordination between the network hospital and insurer/claims administrator so that eligible expenses can be settled through the cashless process, subject to approval and policy conditions. Reimbursement generally involves the insured paying the medical expenses first and subsequently submitting the required documents for reimbursement assessment.
+
+17. Can cashless treatment be denied?
+A cashless request may not be authorized if the treatment, policy, hospital, documents or other circumstances do not satisfy the applicable conditions. Cashless authorization is subject to insurer review and does not guarantee final claim settlement.
+
+18. What should I check before choosing a hospital?
+Before treatment, check whether the hospital is currently within the applicable network, whether cashless treatment is available for the required procedure, whether the treatment is covered under the policy, and whether any deductibles, co-payments, exclusions, waiting periods or limits may apply.
+
+19. Can ClaimCare recommend hospitals or doctors?
+The system can provide recommendation information based on available hospital and doctor datasets, treatment requirements, location and other supported criteria. Recommendations are informational and should be independently verified before treatment.
+
+20. Important disclaimer
+The ClaimCare AI Assistant is an informational assistance system. It does not replace the insurer, doctor, hospital, TPA or authorized claims reviewer. Insurance coverage, cashless authorization, claim eligibility and final settlement depend on the applicable policy terms and official review.

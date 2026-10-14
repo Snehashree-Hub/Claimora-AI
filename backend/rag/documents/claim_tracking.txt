@@ -1,0 +1,26 @@
+# ClaimCare - Claim Tracking
+
+Claim tracking allows a patient to check the status of a submitted claim using the Claim ID associated with the claim.
+
+Claim ID:
+The Claim ID is used by the ClaimCare claim workflow to identify and track a submitted claim.
+
+Possible workflow statuses include:
+
+- Submitted
+- Document Verification
+- Eligibility Checking
+- Fraud Risk Screening
+- Insurer Review
+- Under Review
+- Approved
+- Rejected
+
+The exact status shown depends on the current application workflow and the status recorded for that claim.
+
+Approved and Rejected are claim outcomes, not processing steps.
+
+Important:
+A displayed status should not be interpreted as a guaranteed future outcome. Final claim decisions are made by the applicable insurer or authorized reviewer.
+
+The AI assistant can explain the meaning of available claim statuses but cannot change a claim status or guarantee an outcome.

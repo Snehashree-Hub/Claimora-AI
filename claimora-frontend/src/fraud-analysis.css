@@ -1,0 +1,249 @@
+﻿.fraud-panel {
+  width: 100%;
+  box-sizing: border-box;
+  padding: clamp(18px, 3vw, 30px);
+  border: 1px solid rgba(226, 166, 133, 0.2);
+  border-radius: 22px;
+  background: linear-gradient(145deg, #211b20, #171821);
+  color: #f8f2f1;
+  box-shadow: 0 16px 42px rgba(0, 0, 0, 0.2);
+}
+
+.fraud-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.fraud-heading h2 {
+  margin: 4px 0 8px;
+  font-size: clamp(22px, 3vw, 30px);
+}
+
+.fraud-eyebrow {
+  margin: 0;
+  color: #f0a987;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 1.7px;
+}
+
+.fraud-muted {
+  color: #b9b1b9;
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.fraud-icon {
+  display: grid;
+  place-items: center;
+  width: 54px;
+  height: 54px;
+  flex-shrink: 0;
+  border: 1px solid rgba(240, 169, 135, 0.3);
+  border-radius: 16px;
+  background: rgba(240, 169, 135, 0.1);
+  font-size: 26px;
+}
+
+.fraud-steps {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.fraud-steps > div {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 13px;
+  background: rgba(255, 255, 255, 0.035);
+}
+
+.fraud-steps span {
+  color: #f0a987;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.fraud-steps strong {
+  font-size: 13px;
+}
+
+.fraud-form {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.fraud-field {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.fraud-field-full {
+  grid-column: 1 / -1;
+}
+
+.fraud-field label {
+  color: #f5e9e6;
+  font-size: 13px;
+  font-weight: 650;
+}
+
+.fraud-field input {
+  width: 100%;
+  min-height: 46px;
+  box-sizing: border-box;
+  padding: 12px 14px;
+  border: 1px solid #48404a;
+  border-radius: 11px;
+  outline: none;
+  background: #19171e;
+  color: #fff;
+  font: inherit;
+}
+
+.fraud-field input:focus {
+  border-color: #e9a080;
+  box-shadow: 0 0 0 3px rgba(233, 160, 128, 0.12);
+}
+
+.fraud-field input::placeholder {
+  color: #88808a;
+}
+
+.fraud-field small {
+  color: #a9a0aa;
+  font-size: 11px;
+}
+
+.fraud-actions {
+  display: flex;
+  grid-column: 1 / -1;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 4px;
+}
+
+.fraud-actions button {
+  min-height: 46px;
+  padding: 12px 18px;
+  border-radius: 11px;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 750;
+  cursor: pointer;
+}
+
+.fraud-primary {
+  border: 0;
+  background: linear-gradient(110deg, #efaa88, #dc7e80);
+  color: #241820;
+}
+
+.fraud-secondary {
+  border: 1px solid #63515a;
+  background: transparent;
+  color: #f5e9e6;
+}
+
+.fraud-actions button:disabled {
+  cursor: wait;
+  opacity: 0.6;
+}
+
+.fraud-error,
+.fraud-results {
+  margin-top: 22px;
+  padding: 18px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.035);
+  overflow-wrap: anywhere;
+}
+
+.fraud-error {
+  border-color: rgba(255, 115, 115, 0.4);
+  color: #ffb9b9;
+}
+
+.fraud-results h3 {
+  margin-top: 0;
+}
+
+.fraud-result-metric {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin: 14px 0;
+  padding: 16px;
+  border-radius: 12px;
+  background: rgba(240, 169, 135, 0.09);
+}
+
+.fraud-result-metric strong {
+  color: #ffc09f;
+  font-size: 22px;
+}
+
+.fraud-result-block {
+  margin-top: 16px;
+}
+
+.fraud-result-block p,
+.fraud-result-block li {
+  color: #d8cfd6;
+  font-size: 13px;
+  line-height: 1.7;
+}
+
+.fraud-results details {
+  margin-top: 16px;
+}
+
+.fraud-results summary {
+  cursor: pointer;
+  color: #f0b193;
+  font-size: 13px;
+}
+
+.fraud-results pre {
+  max-width: 100%;
+  overflow: auto;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  color: #d9d5df;
+  font-size: 12px;
+}
+
+@media (max-width: 640px) {
+  .fraud-steps {
+    grid-template-columns: 1fr;
+  }
+
+  .fraud-form {
+    grid-template-columns: 1fr;
+  }
+
+  .fraud-field-full,
+  .fraud-actions {
+    grid-column: auto;
+  }
+
+  .fraud-actions {
+    flex-direction: column;
+  }
+
+  .fraud-actions button {
+    width: 100%;
+  }
+}

@@ -1,0 +1,94 @@
+﻿.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+venv/
+**/venv/
+.venv/
+**/.venv/
+node_modules/
+**/node_modules/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated claim records and backups
+backend/data/claims*.xlsx
+backend/claim_documents/
+backend/uploads/
+
+# Build output
+dist/
+**/dist/
+build/
+**/build/
+.vite/
+**/.vite/
+
+# Local diagnostics and backups
+backend_inspection.txt
+claimora_*_report.txt
+claimora_*_review.txt
+claimora_*_diagnostic.txt
+claimora_ai_response_debug.json
+*.backup_*
+*.broken_*
+
+# Local test documents
+APOLLO_HOSPITALS.pdf
+sample_medical_bill.txt
+synthetic_orchestrator_test.pdf
+synthetic_orchestrator_test.txt
+security-test.txt
+
+# Historical backups - keep local, exclude from GitHub
+**/*backup*
+**/*.bak
+**/*.before*
+**/*before*
+**/*broken*
+**/*corrupted*
+**/*pre_*
+**/*.tmp
+
+# Private claim uploads and generated data
+backend/security/uploads/
+backend/security/logs/
+backend/rag/chroma_db/
+backend/recommendation/data/
+backend/datasets/
+backend/ml_models/
+
+# Additional backup formats
+**/*.bak_*
+**/*.bak.*
+**/*backup*
+**/*.before*
+**/*before*
+**/*broken*
+**/*corrupted*
+**/*pre_*
+**/*.tmp
+
+# Private uploads, logs, generated data and models
+backend/security/uploads/
+backend/security/logs/
+backend/rag/chroma_db/
+backend/recommendation/data/
+backend/datasets/
+backend/ml_models/
+
+# Local reference and temporary files
+App_Current.txt
+DoctorsPage.txt
+HospitalsPage.txt
+extract_doctors.py
+
+# Exclude legacy nested backend copy
+backend/backend/

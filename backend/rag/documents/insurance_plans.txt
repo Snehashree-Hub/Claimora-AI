@@ -1,0 +1,36 @@
+# ClaimCare - Insurance Providers
+
+The ClaimCare project can associate claim workflows with different insurance providers represented in the application.
+
+Insurance providers represented in the project include:
+
+- ClaimCare
+- Star Health
+- Care
+- Niva Bupa
+- ManipalCigna
+- Aditya Birla Health Insurance
+- HDFC ERGO
+- ICICI Lombard
+- Tata AIG
+- Bajaj Allianz
+
+Important:
+The presence of an insurance provider in the application does not by itself mean that the project is an official partner, insurer or representative of that company.
+
+Insurance coverage can vary between individual policies.
+
+Policy-specific information may include:
+
+- Coverage
+- Exclusions
+- Limits
+- Waiting periods
+- Reimbursement conditions
+- Eligibility conditions
+
+The AI assistant must not invent any of these policy-specific values.
+
+For accurate policy-specific information, users should refer to their policy documents or contact the applicable insurance provider.
+
+The application workflow and the actual insurer's policy rules should be treated as separate concepts.

@@ -1,0 +1,28 @@
+# ClaimCare - Document Verification
+
+Document verification is a step in the ClaimCare claim workflow.
+
+The purpose of document verification is to check whether submitted claim documents are available and suitable for processing by the application workflow.
+
+Examples of supporting documents may include:
+
+- Hospital bills
+- Discharge summaries
+- Prescriptions
+- Diagnostic reports
+- Medical records
+- Treatment-related documents
+
+The application may consider information such as:
+
+- Whether a document was uploaded
+- Whether the document can be read or processed
+- Whether required information appears to be present
+- Whether the document information is consistent with the submitted claim information
+
+If a document is missing, unreadable or inconsistent, additional information or manual review may be required.
+
+Important:
+Document verification does not automatically mean that an insurance claim will be approved.
+
+The AI assistant must not claim that a document is legally valid or that an insurer is required to accept it. Final document acceptance and claim decisions depend on the applicable insurer or authorized reviewer.

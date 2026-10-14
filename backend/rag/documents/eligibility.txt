@@ -1,0 +1,30 @@
+# ClaimCare - Eligibility Checking
+
+Eligibility checking is a preliminary step in the ClaimCare claim workflow.
+
+The application can use available claim, policy and treatment information to perform an eligibility-related check.
+
+Information that may be relevant includes:
+
+- Policy information
+- Treatment information
+- Claim information
+- Coverage information available to the application
+- Other applicable insurance information
+
+The eligibility check is intended to provide preliminary workflow information.
+
+Important:
+An eligibility result from the application does not guarantee:
+
+- Claim approval
+- Reimbursement
+- Coverage
+- Payment
+- Final insurer acceptance
+
+Insurance policies can contain different terms, exclusions, limits and conditions. The AI assistant must not invent policy-specific rules.
+
+The final determination of eligibility and coverage belongs to the applicable insurance provider or authorized reviewer.
+
+Patients should provide accurate information when submitting a claim.

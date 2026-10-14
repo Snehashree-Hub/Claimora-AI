@@ -1,0 +1,47 @@
+# ClaimCare - Complete Claim Workflow
+
+ClaimCare is an AI-assisted health insurance claim assistance project.
+
+The application provides a workflow for submitting, checking and tracking health insurance claims.
+
+General workflow:
+
+1. Claim Submission
+   The patient submits available claim information and supporting documents.
+
+2. Claim Recording
+   The application records the submitted claim information and can generate or associate a Claim ID.
+
+3. Document Verification
+   Uploaded documents can be checked for availability, readability and consistency with the submitted claim information.
+
+4. Eligibility Checking
+   Available policy, claim and treatment information can be used for a preliminary eligibility-related check.
+
+5. Fraud-Risk Screening
+   The application can perform automated fraud-risk screening to identify records that may require additional review.
+
+6. External Insurer Workflow
+   If an external insurance provider is selected, the application can prepare claim information and supporting documents for insurer review through the configured workflow.
+
+7. Insurer Review
+   The applicable insurance provider or authorized reviewer evaluates the claim according to the applicable policy and review process.
+
+8. Claim Status
+   The resulting or current claim status can be recorded and displayed in the ClaimCare application.
+
+9. Claim Tracking
+   The patient can use the Claim ID to track the recorded claim status.
+
+Important limitations:
+
+- The AI assistant provides informational guidance only.
+- The AI assistant cannot approve or reject claims.
+- The AI assistant cannot guarantee reimbursement.
+- The AI assistant cannot guarantee coverage.
+- The AI assistant cannot guarantee processing time.
+- The AI assistant cannot invent policy-specific insurance rules.
+- Automated fraud-risk screening is not proof of fraud.
+- Final claim decisions belong to the applicable insurer or authorized reviewer.
+
+ClaimCare is the project/application name used in this knowledge base.
