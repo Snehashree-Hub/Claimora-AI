@@ -10,13 +10,22 @@ The platform combines a React frontend with a FastAPI backend and AI-assisted se
 
 ## Application Screenshots
 
-### Home Page
-claimora-frontend/public/images/find care.png
-claimora-frontend/public/images/home page.png
-claimora-frontend/public/images/new claim.png
-claimora-frontend/public/images/upload.doc.png
-claimora-frontend/public/images/security.png
+## Application Screenshots
 
+### Home Page
+![Claimora Home Page](claimora-frontend/public/images/home%20page.png)
+
+### Find Care
+![Find Care](claimora-frontend/public/images/find%20care.png)
+
+### New Claim
+![New Claim](claimora-frontend/public/images/new%20claim.png)
+
+### Document Upload
+![Document Upload](claimora-frontend/public/images/upload.doc.png)
+
+### Security
+![Security](claimora-frontend/public/images/security.png)
 ### Security
 claimora-frontend/public/images/security.png
 ## ✨ Key Features
