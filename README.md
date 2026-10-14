@@ -12,7 +12,7 @@ The platform combines a React frontend with a FastAPI backend and AI-assisted se
 
 ### 1. Home Page
 
-![Claimora AI Home Page](claimora-frontend/public/images/home%20page.png)
+C:\Users\T9961\Downloads\health_insurance_claim_agent\claimora-frontend\public\images\home page.png
 
 ### 2. Find Care — Hospital and Doctor Discovery
 
