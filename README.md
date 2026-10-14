@@ -15,6 +15,7 @@ claimora-frontend/public/images/find care.png
 claimora-frontend/public/images/home page.png
 claimora-frontend/public/images/new claim.png
 claimora-frontend/public/images/upload.doc.png
+claimora-frontend/public/images/security.png
 
 ### Security
 claimora-frontend/public/images/security.png
